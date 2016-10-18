@@ -47,6 +47,12 @@ To reduce the number of requests to Wikipedia, a set of links for each page are
 also cached in a sub-folder called 'cache', so you will find that after running
 a strategy a few times it will run reasonably quickly.
 
+## Marius' solution
+
+This repository also contains [Marius'][marius] solution in Perl, which was
+created at the Geek Night event at Oxford CompSoc.
+
 [game]: https://en.wikipedia.org/wiki/Wikipedia:Wiki_Game
 [department]: https://en.wikipedia.org/wiki/Department_of_Computer_Science,_University_of_Oxford
 [philosophy]: https://en.wikipedia.org/wiki/Philosophy
+[marius]: https://ieval.ro
