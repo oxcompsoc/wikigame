@@ -3,7 +3,7 @@
 The aim of the [Wikipedia game][game] is to click the random article button and
 then click on as few links as possible try to get to another designated
 Wikipedia article. In this game our goal is to write bots to get to the page for
-the [department][].
+[frogs][].
 
 This repository contains some Python code to get started with the challenge,
 along with an example that uses the 'Philosophy' strategy: if you keep clicking
@@ -47,12 +47,7 @@ To reduce the number of requests to Wikipedia, a set of links for each page are
 also cached in a sub-folder called 'cache', so you will find that after running
 a strategy a few times it will run reasonably quickly.
 
-## Marius' solution
-
-This repository also contains [Marius'][marius] solution in Perl, which was
-created at the Geek Night event at Oxford CompSoc.
-
 [game]: https://en.wikipedia.org/wiki/Wikipedia:Wiki_Game
 [department]: https://en.wikipedia.org/wiki/Department_of_Computer_Science,_University_of_Oxford
 [philosophy]: https://en.wikipedia.org/wiki/Philosophy
-[marius]: https://ieval.ro
+[frogs]: https://en.wikipedia.org/wiki/Frog

@@ -1,6 +1,6 @@
 # By clicking the first link of a Wikipedia article you will, in most cases, get
 # to the article on philosophy. I then found a fixed route from philosophy to
-# the CS department, so we do that route at the end
+# frogs, so we do that route at the end
 
 import wikigame
 
@@ -22,8 +22,12 @@ while current.lower() != "philosophy":
         print("Dead end!")
         exit()
 
-# A known route from Philosophy to the CS department
+# A known route from Philosophy to Frog
 print("Philosophy")
-print("Colin McGinn")
-print("University of Oxford")
-print("Department of Computer Science, University of Oxford")
+print("Medicine")
+print("Herbalism")
+print("Chickens")
+print("List of domesticated animals")
+print("Australian green tree frog")
+print("Hylidae")
+print("Frog")
