@@ -8,7 +8,7 @@ Wikipedia article. In this game our goal is to write bots to get to the page for
 This repository contains some Python code to get started with the challenge,
 along with an example that uses the 'Philosophy' strategy: if you keep clicking
 the first link of an article you eventually get to [Philosophy][], and from
-there we can get to the department page using a known path.
+there we can get to the frog using a known path.
 
 **Python 3** is required, so you may need to run `python3` instead of `python`
 if you have both installed.
@@ -54,6 +54,5 @@ also cached in a sub-folder called 'cache', so you will find that after running
 a strategy a few times it will run reasonably quickly.
 
 [game]: https://en.wikipedia.org/wiki/Wikipedia:Wiki_Game
-[department]: https://en.wikipedia.org/wiki/Department_of_Computer_Science,_University_of_Oxford
 [philosophy]: https://en.wikipedia.org/wiki/Philosophy
 [frogs]: https://en.wikipedia.org/wiki/Frog
