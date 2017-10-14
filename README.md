@@ -15,7 +15,13 @@ if you have both installed.
 
 To get started, download a local copy of this repository (either via cloning,
 forking, or downloading the zip file) and checking it works with `python3
-philosophy.py`.
+philosophy.py`. Alternatively you can use the Python IDE *IDLE* by opening
+`philosophy.py` and running it.
+
+## Initial ideas
+
+* Find a shorter route from Philosophy to Frogs
+* Come up with a better strategy for handling the "Dead End" case
 
 ## Functions
 
